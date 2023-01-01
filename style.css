@@ -37,7 +37,7 @@ img{
     border: none;
     border-radius: 60px;
     font-weight: 500;
-    padding: 2.5% 7%;
+    padding: calc(2vh * 1) calc(8vh * 1);
     text-align: center;
     background-color: rgb(21, 37, 37);
     color: rgba(192,153,116,255);
